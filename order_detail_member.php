@@ -269,7 +269,7 @@
 					    <td align="right"><a href="cart.php?act=clear&amp;ref=order_detail_member.php">Clear</a></td>
 					  </tr>
 					</table>
-          			<button><a href="out_member.php">Cek Out</a></button>
+          			<a href="out_member.php"><input type="submit" value="Cek Out"></a></input>
 		  		</div>
 		   </div>
 		  </div>
